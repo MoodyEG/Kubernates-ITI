@@ -10,6 +10,6 @@ Hazem Ahmed
 
 Mahmoud Mohey Eldin
 
-Malik Huessin
+Malik Hussein
 
 Mohamed Eid

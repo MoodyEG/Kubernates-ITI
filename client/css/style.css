@@ -1,0 +1,15 @@
+body {
+  background-color: #2e2e2e !important;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+input,
+textarea {
+  background-color: #424242 !important;
+  color: #ffffff !important;
+}
+input::placeholder,
+textarea::placeholder {
+  color: #cccccc !important;
+}
